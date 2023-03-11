@@ -5,7 +5,8 @@ body {
   
   .navbar {
     overflow: hidden;
-    background-color: #89A2AB; 
+    background-color: #4EB5F9;
+
   }
   
   .navbar a {
@@ -15,7 +16,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family : "Comic Sans MS", cursive;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
   }
   
@@ -38,9 +39,9 @@ body {
   }
   
   .navbar a:hover, .subnav:hover .subnavbtn {
-    background-color: #4EB5F9;
+    background-color: #F5CA5A;
   }
-  .navbar a:active{
+  .navbar a::marker{
     color: #F5CA5A;
   }
   
@@ -48,7 +49,7 @@ body {
     display: none;
     position: absolute;
     left: 0;
-    background-color: #4EB5F9;
+    background-color: #F5CA5A;
     width: 100%;
     z-index: 1;
   }
@@ -57,14 +58,14 @@ body {
     float: left;
     color: white;
     text-decoration: none;
-    font-family : "Comic Sans MS", cursive;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
   }
   
   .subnav-content a:hover {
     background-color: #F5CA5A;
-    color: white;
-    font-family : "Comic Sans MS", cursive;
+    color: #0F4D6B;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
   }
   
@@ -92,10 +93,12 @@ body {
   #section1 div>p{
     color: white;
     font-size: 4em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   #section1 div>img{
     width: 20%;
     height: 30%;
   }
+
+ 
