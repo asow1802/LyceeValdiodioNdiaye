@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../code_css/administration.css">
+    <link rel="stylesheet" href="../code_css/archive.css">
     <title>Lycée Valdiodio Ndiaye de Kaolack</title>
 </head>
 <body>
-    <p>admin</p>
+<?php 
+          include("navigation.php"); 
+        ?>
 </body>
 </html>

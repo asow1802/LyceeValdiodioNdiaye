@@ -71,6 +71,9 @@ body {
   .subnav:hover .subnav-content {
     display: block;
   }
+  #selection1>div p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
   /** carte */
 
   #map { height: 400px; }
@@ -89,7 +92,7 @@ body {
   }
   
   input[type=submit] {
-    background-color: red;
+    background-color: #0F4D6B;
     color: white;
     padding: 12px 20px;
     border: none;

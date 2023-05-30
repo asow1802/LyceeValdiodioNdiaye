@@ -10,37 +10,37 @@
 <body>
 
 <div class="navbar">
-  <a href="home.html">Home</a>
+  <a href="home.php">Home</a>
   <div class="subnav">
     <button class="subnavbtn">A propos<i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="archive.html">Archive</a>
-      <a href="concours.html">Concours</a>
-      <a href="historique.html">Historique</a>
+      <a href="archive.php">Archive</a>
+      <a href="concours.php">Concours</a>
+      <a href="historique.php">Historique</a>
     </div>
   </div> 
   <div class="subnav">
     <button class="subnavbtn">Activités<i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="clubscientifique.html">Club Scientifique</a>
-      <a href="cluballemand.html">Club allemand</a>
-      <a href="clubespagnol.html">Club Espagnol</a>
-      <a href="clubportugais.html">Club Portugais</a>
+      <a href="clubscientifique.php">Club Scientifique</a>
+      <a href="cluballemand.php">Club allemand</a>
+      <a href="clubespagnol.php">Club Espagnol</a>
+      <a href="clubportugais.php">Club Portugais</a>
     </div>
   </div> 
   <div class="subnav">
     <button class="subnavbtn">Profs<i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="maths.html">Maths</a>
-      <a href="sciencephysique.html">Sciences Physique</a>
-      <a href="anglais.html">Anglais</a>
-      <a href="svt.html">SVT</a>
+      <a href="maths.php">Maths</a>
+      <a href="sciencephysique.php">Sciences Physique</a>
+      <a href="anglais.php">Anglais</a>
+      <a href="svt.php">SVT</a>
     </div>
   </div>
-  <a href="administration.html">administration</a>
-  <a href="activite.html">Activité</a>
-  <a href="historique.html">Historique</a>
-  <a href="contact.html">Contact</a>
+  <a href="administration.php">administration</a>
+  <a href="activite.php">Activité</a>
+  <a href="historique.php">Historique</a>
+  <a href="contact.php">Contact</a>
 </div>
 <section id="section1">
     <div> 
